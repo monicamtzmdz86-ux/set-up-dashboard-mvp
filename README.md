@@ -11,7 +11,7 @@ El equipo de Set Up gestiona la apertura Service Centers en distintos estados de
 ### 1. Consolidación de Datos (Python + Pandas)
 - Carga y limpieza del dataset de Service Centers
 - Cálculo de métricas consolidadas: avance total por categoría, días de retraso acumulado, clasificación de riesgo (semáforo)
-- Métricas financieras adicionales: desviación de CapEx, cumplimiento de throughput
+- Métricas financieras adicionales: desviación de CapEx
 - Exportación a formato estructurado para el tablero
 
 ### 2. Tablero Visual (Looker Studio)
