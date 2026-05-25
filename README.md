@@ -1,6 +1,6 @@
 # Set Up Dashboard - MVP de Aperturas de Service Centers
 
-Dashboard automatizado para dar visibilidad semanal al equipo de Set Up sobre el estado de apertura de 12 Service Centers distribuidos en México, reduciendo el tiempo de preparación de reportes de 2+ horas a menos de 5 minutos.
+Dashboard automatizado para dar visibilidad semanal al equipo de Set Up sobre el estado de apertura de Service Centers distribuidos en México, reduciendo el tiempo de preparación de reportes de 2+ horas a menos de 5 minutos.
 
 ## Contexto del Proyecto
 
