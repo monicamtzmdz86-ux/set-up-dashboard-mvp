@@ -20,7 +20,7 @@ El equipo de Set Up gestiona la apertura de 12 Service Centers en distintos esta
 - *Tabla detallada:* con formato condicional (verde/amarillo/rojo) según días de retraso
 - *Filtros interactivos:* por estado, tipo de SC y rango de fechas
 
- *[Ver tablero en vivo]([https://datastudio.google.com/reporting/c85f14d1-cab5-484b-81fa-2da678ba3e5b])*
+ *[Ver tablero en vivo](https://datastudio.google.com/reporting/c85f14d1-cab5-484b-81fa-2da678ba3e5b)*
 
 ### 3. Módulo de IA para Detección de Riesgos (Claude API)
 - Recibe el DataFrame consolidado en formato JSON
