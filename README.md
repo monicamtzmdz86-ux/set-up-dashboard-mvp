@@ -4,7 +4,7 @@ Dashboard automatizado para dar visibilidad semanal al equipo de Set Up sobre el
 
 ## Contexto del Proyecto
 
-El equipo de Set Up gestiona la apertura de 12 Service Centers en distintos estados de México. La información estaba dispersa entre Monday.com, Google Sheets y registros manuales, sin visibilidad consolidada. Este proyecto resuelve ese problema con un pipeline automatizado de datos, un tablero visual y un módulo de IA para detección de riesgos.
+El equipo de Set Up gestiona la apertura Service Centers en distintos estados de México. La información estaba dispersa entre Monday.com, Google Sheets y registros manuales, sin visibilidad consolidada. Este proyecto resuelve ese problema con un pipeline automatizado de datos, un tablero visual y un módulo de IA para detección de riesgos.
 
 ## Entregables
 
